@@ -1,0 +1,12 @@
+[submodule "etapa1-base"]
+	path = etapa1-base
+	url = https://github.com/patyhelenaa/2024.2_G1_Logic_Thinkering_Entrega_01.git
+[submodule "etapa2-modelagem"]
+	path = etapa2-modelagem
+	url = https://github.com/patyhelenaa/2024.2_G1_Logic_Thinkering_Entrega_02.git
+[submodule "etapa3-padroes"]
+	path = etapa3-padroes
+	url = https://github.com/patyhelenaa/2024.2_G1_Logic_Thinkering_Entrega_03.git
+[submodule "etapa4-implementacao"]
+	path = etapa4-implementacao
+	url = https://github.com/patyhelenaa/2024.2_G1_Logic_Thinkering_Entrega_03_MOD.git
